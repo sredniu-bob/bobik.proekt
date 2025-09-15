@@ -1,0 +1,27 @@
+footer {
+background-color: black;
+color: white;
+padding:  12px;
+cursor: default;
+}
+
+.footer_contener {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer_sections {
+    flex: 1;
+    margin: 10px;
+}
+.footer_sections h4 {
+   border-bottom: 1px solid #fff;
+   padding-bottom: 10px;
+   font-size: 25px;
+}
+
+.footer_sections a {
+color: white;
+text-decoration: none;
+}
+

@@ -1,1 +1,2 @@
-# bobik.proekt
+# bobik.launcher
+Сайт лаунчера
