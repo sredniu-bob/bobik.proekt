@@ -1,7 +1,7 @@
 .dropdown {
     display: none;
     position: absolute;
-    background-color: black;
+    background-color: rgb(70, 37, 148);
     min-height: 160px;
     z-index: 1;
 }
