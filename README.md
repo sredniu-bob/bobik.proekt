@@ -1,2 +1,2 @@
-# bobik.launcher
-Сайт лаунчера
+# WildTeamsRU
+Главный сайт проекта
